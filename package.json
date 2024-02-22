@@ -1,0 +1,11 @@
+{
+  "name": "github-3.12-sls-22feb-ong-joseph",
+  "version": "1.0.0",
+  "description": "## Serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

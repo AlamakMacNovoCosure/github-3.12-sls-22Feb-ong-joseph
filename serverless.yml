@@ -1,0 +1,6 @@
+service: github-3.12-sls-22feb-ong-joseph
+frameworkVersion: 3
+
+provider:
+  name: aws
+  runtime: nodejs18.x
