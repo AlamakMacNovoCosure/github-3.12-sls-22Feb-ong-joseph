@@ -1,10 +1,10 @@
 {
-  "name": "github-3.12-sls-22feb-ong-joseph",
+  "name": "joseph-sls-22-feb",
   "version": "1.0.0",
-  "description": "## Serverless",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,7 @@
     "serverless": "^3.38.0"
   },
   "devDependencies": {
+    "jest": "^29.7.0",
     "serverless-offline": "^13.3.3"
   }
 }
